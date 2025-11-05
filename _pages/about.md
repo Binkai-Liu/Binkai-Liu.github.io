@@ -7,13 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-# About ME
+## About ME
 
-I am currently a Bechelor of Engineering in Artificial Intelligence at Hong Kong University of Science and Technology (HKUST). 
+I am currently a Bechelor of Engineering in Artificial Intelligence at Hong Kong University of Science and Technology (HKUST). With a solid foundation in AI theory and hands-on engineering experience, I hold the TÜV Rheinland Engineer Certification and am the National First Prize winner of the 2025 MEICC.
 
-# Research Interests
+## Research Interests
 
-- Anomaly detection in robotic vision
-- Machinge Learning
-- Multi-modal AIGC
-
+- Anomaly Detection in Robotic Vision:
+ Robust perception under complex conditions (e.g., multi-illumination, 360° omnidirectional vision) for industrial inspection and autonomous robots.
+- Machine Learning: 
+ Focus on supervised/self-supervised learning, feature engineering, and model optimization for engineering-oriented AI applications.
+- Multi-modal AIGC:
+ Cross-modal content generation (image, text, sensor data) and its integration with robotic perception systems to improve environmental understanding.
