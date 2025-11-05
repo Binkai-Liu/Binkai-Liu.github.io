@@ -19,3 +19,5 @@ I am currently a Bechelor of Engineering in Artificial Intelligence at Hong Kong
  Focus on supervised/self-supervised learning, feature engineering, and model optimization for engineering-oriented AI applications.
 - Multi-modal AIGC:
  Cross-modal content generation (image, text, sensor data) and its integration with robotic perception systems to improve environmental understanding.
+
+ 
