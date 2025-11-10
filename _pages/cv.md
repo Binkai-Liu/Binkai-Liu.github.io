@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+{% include toc %}
+
 Education
 ======
 * M.S. in Hong Kong University of Science and Technology (Guangzhou), 2027
