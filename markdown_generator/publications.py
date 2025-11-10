@@ -73,9 +73,10 @@ for row, item in publications.iterrows():
     md = "---\ntitle: \""   + item.title + '"\n'
 
     # TODO Update to use the category assigned in the TSV file
-    md += """collection: manuscripts"""
-    
-    md += """\npermalink: /publication/""" + html_filename
+    # Ensure generated files target the site's `publications` collection and permalink path
+    md += "\ncollection: publications"
+
+    md += "\npermalink: /publications/" + html_filename
     
     if len(str(item.excerpt)) > 5:
         md += "\nexcerpt: '" + html_escape(item.excerpt) + "'"
