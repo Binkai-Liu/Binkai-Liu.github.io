@@ -9,7 +9,7 @@ redirect_from:
 
 ## About ME
 
-I am currently a Bechelor of Engineering in Artificial Intelligence at Hong Kong University of Science and Technology (HKUST). With a solid foundation in AI theory and hands-on engineering experience, I hold the TÜV Rheinland Engineer Certification and am the National First Prize winner of the 2025 MEICC.
+I am currently a Bechelor of Engineering in Artificial Intelligence at Hong Kong University of Science and Technology (HKUST). With a solid foundation in AI theory and hands-on engineering experience, I hold the TÜV Rheinland Aritificial Intelligence Engineer Certification and am the National First Prize winner of the 2025 MEICC.
 
 ## Research Interests
 
