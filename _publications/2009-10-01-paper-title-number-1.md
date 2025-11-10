@@ -1,14 +1,14 @@
 ---
 title: "PiCo: Pose-in-Condition Canonicalization for Robotic Visual Anomaly Detection"
 collection: CVPR 2026
-category: CV
+category: Computer Vision/Embodied AI
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Robotic inspection must remain reliable when objects are observed at random poses under changing operating conditions, where normal-only anomaly detectors often fail to generalize to unseen settings. We present PiCo, a reproducible framework that maps each observation to a canonical pose-in-condition view and pairs this mapping with an efficient encoder–bottleneck–decoder detector. A condition-oriented pre-processing step and dataset-aligned augmentations stabilize appearance while preserving geometry; the detector combines a frozen pretrained ViT encoder, a robustness-oriented bottleneck, and a spatially aware decoder for reconstruction-based scoring. To assess this regime, we also introduce PiCo-Bench, a public robotic dataset with controlled pose strata and operating conditions, a two-by-two protocol covering seen and unseen cases for both factors, and a closed-loop pick–orient–place test. Across strong baselines, PiCo consistently improves image-level and pixel-level metrics and enhances reliability in real robotic loops. The work offers a unified canonicalization framework, an efficient normal-only detector, and an open benchmark that standardizes evaluation under varying poses and operating conditions. We will release code, dataset, and evaluation scripts to support reproducibility.'
 date: 2025-11-19
-venue: 'Journal 1'
+venue: 'CVPR 2026'
 slidesurl: ''
 paperurl: 'https://academicpages.github.io/files/paper1.pdf'
 bibtexurl: ''
-citation: 'B,Liu. (2025). &quot;PPiCo: Pose-in-Condition Canonicalization for Robotic Visual Anomaly Detection.&quot; <i>CVPR 2026</i>. 1(1).'
+citation: 'B,Liu. (2026). &quot;PPiCo: Pose-in-Condition Canonicalization for Robotic Visual Anomaly Detection.&quot; <i>CVPR 2026</i>. 1(1).'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Robotic inspection must remain reliable when objects are observed at random poses under changing operating conditions, where normal-only anomaly detectors often fail to generalize to unseen settings. We present PiCo, a reproducible framework that maps each observation to a canonical pose-in-condition view and pairs this mapping with an efficient encoder–bottleneck–decoder detector. A condition-oriented pre-processing step and dataset-aligned augmentations stabilize appearance while preserving geometry; the detector combines a frozen pretrained ViT encoder, a robustness-oriented bottleneck, and a spatially aware decoder for reconstruction-based scoring. To assess this regime, we also introduce PiCo-Bench, a public robotic dataset with controlled pose strata and operating conditions, a two-by-two protocol covering seen and unseen cases for both factors, and a closed-loop pick–orient–place test. Across strong baselines, PiCo consistently improves image-level and pixel-level metrics and enhances reliability in real robotic loops. The work offers a unified canonicalization framework, an efficient normal-only detector, and an open benchmark that standardizes evaluation under varying poses and operating conditions. We will release code, dataset, and evaluation scripts to support reproducibility
