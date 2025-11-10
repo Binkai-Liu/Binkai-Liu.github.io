@@ -11,35 +11,35 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Hong Kong University of Science and Technology (Guangzhou), 2027
+* B.S. in Hong Kong University of Science and Technology (Guangzhou), 2023
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2025: Academic Pages Collaborator
+  * Yu Ling Technology Co.,
+  * Duties includes: Nerual Network Framework Design for Embodied AI/VAD
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Technical & Programming Proficiency**
+  * Proficient in programming languages including Python and C++
+  * Strong foundation in mathematics and statistics for machine learning and data analysis
+  * Abundant practice & experience in embedded development
+* **AI & Machine Learning Expertise**
+  * Strong understanding of Generative AI
+    * Expertise in core paradigms (diffusion, transformer, closed-source APIs)
+    * Familiarity with key models (diffusion models, video models, VLMs)
+    * Proficient in prompt engineering for image and video
+  * Hands-on experience in AI research like Embodied AI
+* **Research & Soft Skills**
+  * Scientific research capability & experience with academic instructors during UG period
+  * Creative problem-solving abilities
+    * Keen eye for design and aesthetics
+  * Excellent communication and documentation skills
+  * Fluent English Speaker
 
 Publications
 ======
@@ -47,18 +47,4 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
