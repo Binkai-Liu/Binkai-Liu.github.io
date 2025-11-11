@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "HKUST Laboratory for Safe, Secure, and Smart Cyber-Physical Systems"
+excerpt: "Team led by Prof. Zhong<br/><img src='/images/team.jpg'>"
 collection: portfolio
 ---
 
