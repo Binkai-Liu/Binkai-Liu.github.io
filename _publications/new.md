@@ -1,5 +1,5 @@
 ---
-title: "PiCo: Pose-in-Condition Canonicalization for Robotic Visual Anomaly Detection"
+title: "PiCo: Pose-in-Condition Canonicalization for Robotic Visual Anomaly Detection (under review)"
 collection: publications
 category: conferences
 permalink: /publications/2009-10-01-paper-title-number-1
