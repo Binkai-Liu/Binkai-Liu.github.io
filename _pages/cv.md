@@ -12,8 +12,8 @@ redirect_from:
 
 Education
 ======
-* M.S. in Hong Kong University of Science and Technology (Guangzhou), 2027
-* B.S. in Hong Kong University of Science and Technology (Guangzhou), 2023
+* M.Phil in Hong Kong University of Science and Technology (Guangzhou), 2027
+* B.Eng. in Hong Kong University of Science and Technology (Guangzhou), 2023
 
 Work experience
 ======
