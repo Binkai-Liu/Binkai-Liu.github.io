@@ -7,7 +7,7 @@ excerpt: 'Robotic inspection must remain reliable when objects are observed at r
 date: 2026-6-6
 venue: 'CVPR 2026'
 slidesurl: ''
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
+paperurl: ''
 bibtexurl: ''
 citation: 'B,Liu. (2026). &quot;PPiCo: Pose-in-Condition Canonicalization for Robotic Visual Anomaly Detection.&quot; <i>CVPR 2026</i>. 1(1).'
 ---
