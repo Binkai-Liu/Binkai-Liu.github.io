@@ -4,3 +4,4 @@ excerpt: "2025, awarded by Idustrial and Information Technology Deparment of Chi
 collection: portfolio
 ---
 
+<img src='/images/certification.jpg'>
