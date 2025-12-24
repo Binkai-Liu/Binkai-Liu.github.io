@@ -11,7 +11,7 @@ redirect_from:
 
 ## About ME
 
-I am currently a Bechelor of Engineering in Artificial Intelligence at Hong Kong University of Science and Technology (HKUST). Research interests include LLM (Large Language Model), CV (computer vison), and Embodied AI. Engaged in MEICC(2025) and gained National World Prize. I hold TÜV Rheinland Aritificial Intelligence Engineer Certification by TÜV Rheinland and Industrial and Information Technology Talent Job Capability Certification by MIIT of China. TUV Rheinland Certified Industrial Data Analyst.
+I am currently a Bechelor of Engineering in Artificial Intelligence at Hong Kong University of Science and Technology (HKUST). Research interests include LLM (Large Language Model), CV (computer vison), and Embodied AI. Engaged in MEICC(2025) and gained National First Prize. I hold TÜV Rheinland Aritificial Intelligence Engineer Certification by TÜV Rheinland and Industrial and Information Technology Talent Job Capability Certification by MIIT of China. TÜV Rheinland Certified Industrial Data Analyst.
 
 ## Research Interests
 
