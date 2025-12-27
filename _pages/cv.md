@@ -18,7 +18,7 @@ Education
 Work experience
 ======
 
-* Spring 2025: Academic Pages Collaborator
+* Spring 2025: Academic Researcher
   * Yu Ling Technology Co.,
   * Duties includes: Nerual Network Framework Design for Embodied AI/VAD
 
