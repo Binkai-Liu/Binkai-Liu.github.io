@@ -38,11 +38,9 @@ Honors & Awards
 ======
 
 * 2025 MEICC National First Prize
-* 2024 HKUST Dean List Award (2024-2025 academic year)
+* 2024 HKUST Dean's List Award (2024-2025 academic year)
 * 2024 RoboMaster University Championship Excellence Award
 * 2024 HKUST UGRP Merit Research Award
-
-
 
 
 Work experience
