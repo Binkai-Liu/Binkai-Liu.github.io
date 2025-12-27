@@ -31,9 +31,18 @@ Skills
 * **Research & Soft Skills**
   * Scientific research capability & experience with academic instructors during UG period
   * Creative problem-solving abilities
-    * Keen eye for design and aesthetics
   * Excellent communication and documentation skills
   * Fluent English Speaker
+
+Honors & Awards
+======
+
+* 2025 MEICC National First Prize
+* 2024 HKUST Dean List Award (2024-2025 academic year)
+* 2024 RoboMaster University Championship Excellence Award
+* 2024 HKUST UGRP Merit Research Award
+
+
 
 
 Work experience
