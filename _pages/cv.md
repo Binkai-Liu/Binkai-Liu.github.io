@@ -39,6 +39,19 @@ Project experience
     * **Production-Grade Efficiency**: Optimized system for real-time deployment with an inference latency **<50ms per query** and a lightweight LoRA adapter size of just **2.5MB**.
     * **High Data Efficiency**: Attained **99.51% accuracy with only 100 training samples**, demonstrating exceptional sample efficiency through transfer learning.
 
+**M2AD-DinomalyV2: Multi-View Multi-Illumination Unsupervised Anomaly Detection** | *Lead Developer* | *2025*
+*  **Project Overview**: Developed an advanced unsupervised anomaly detection (AD) framework, M2AD-DinomalyV2, to address industrial inspection challenges under complex multi-view and varying illumination conditions.
+* **Technical Implementation - Model Optimization**: 
+    *  Built upon the **Dinomaly** baseline, implementing a structured reconfiguration of training schedules and regularization intensity to enhance model stability.
+    *  Performed a two-stage **Optuna-based hyperparameter search** to ensure consistency between constrained optimization and real-world re-training performance.
+* **Technical Implementation - Data & Inference Engineering**: 
+    *  Integrated a lightweight **ColorJitter** preprocessing pipeline to align light and chromaticity distributions, effectively narrowing the "normal distribution" tail for better separability of anomalies.
+    *  Developed a **Test-Time Augmentation (TTA)** strategy using multi-crop averaging to reduce viewpoint variance and smooth cross-view ranking without altering evaluation scripts.
+* **Key Results & Impact**:
+    *  **Championship Performance**: Secured the **First Prize (National Finals)** in the 2025 Micro-Enterprise Intelligent Computing Competition (MEICC) Smart Manufacturing track.
+    *  **State-of-the-Art Metrics**: Achieved a final balanced score of **89.814**, with a Mean AUROC of **94.15** for objects and **85.51** for viewpoints on the M2AD-Synergy dataset.
+    * **Robustness**: Demonstrated significant performance gains in challenging categories such as "Bird," "Doll," and "Tube," which are highly sensitive to material reflection and lighting shifts.
+
 
 
 
